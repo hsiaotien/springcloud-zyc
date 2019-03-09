@@ -1,0 +1,112 @@
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T114037.200.json
+
+###
+
+GET http://localhost:7001/hxtcoder/dev
+Accept: application/json
+
+<> 2019-03-09T114034.200.json
+
+###
+
+GET http://localhost:7001/hxtcoder/dev
+Accept: application/json
+
+<> 2019-03-09T113651.404.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T113219.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T111051.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T111022.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T111021.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T111019.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T110728.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T102415.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T100040.200.json
+
+###
+
+GET http://localhost:7002/from2
+Accept: application/json
+
+<> 2019-03-09T095953.200.json
+
+###
+
+GET http://localhost:7002/from
+Accept: application/json
+
+<> 2019-03-09T095254.200.json
+
+###
+
+GET http://localhost:7002/from
+Accept: application/json
+
+<> 2019-03-09T095251.200.json
+
+###
+
+GET http://localhost:7002/from
+Accept: application/json
+
+<> 2019-03-09T095124.200.json
+
+###
+
+GET http://localhost:7002/from
+Accept: application/json
+
+<> 2019-03-09T094905.200.json
+
+###
+

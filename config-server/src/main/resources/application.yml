@@ -5,7 +5,9 @@ spring:
     config:
       server:
         git:
+#          uri 多种配法
           uri: https://github.com/hsiaotien/springcloudinaction/
+#          uri: https://github.com/hsiaotien/{application}
           search-paths: config-repo
           username: hsiaotien@163.com
           password: Hh12345@

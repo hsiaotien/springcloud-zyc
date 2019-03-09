@@ -9,3 +9,8 @@ GET http://localhost:7002/from2
 Accept: application/json
 
 ###
+
+GET http://localhost:7001/hxtcoder/dev
+Accept: application/json
+
+###
