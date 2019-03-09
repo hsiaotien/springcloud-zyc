@@ -7,6 +7,16 @@ spring:
       profile: dev
       label: master
       uri: http://localhost:7001/
+      username: user
+      password: 1d650dc0-aa54-4a47-8558-45cefda77536
+      discovery:
+        enabled: true
+        service-id: config-server
 
 server:
   port: 7002
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka/

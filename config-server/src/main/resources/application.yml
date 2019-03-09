@@ -11,5 +11,21 @@ spring:
           search-paths: config-repo
           username: hsiaotien@163.com
           password: Hh12345@
+        overrides:
+          from: shanghai # 属性覆盖
+
+  security: # 安全保护
+    user:
+      password: 1d650dc0-aa54-4a47-8558-45cefda77536
+      name: user
+
+security:
+
 server:
   port: 7001
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka/
